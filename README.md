@@ -5,7 +5,7 @@
 * Italo Dias, 21 anos.
 * Estudante de Programação.
 * Atualmente Estudando as Linguagens C and C++.
-* Estudando há 7 meses.
+* Estudando há  1ano.
 
 
 <picture>
