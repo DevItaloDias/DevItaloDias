@@ -5,7 +5,7 @@
 * Italo Dias, 22 anos.
 * Estudante de Programação.
 * Atualmente Estudando a Linguagem Java.
-* Estudando há  1ano.
+* Estudando há  2 anos.
 
 
 <picture>
