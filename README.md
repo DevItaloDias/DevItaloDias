@@ -1,4 +1,4 @@
-## 👋Heyyy! Eu sou o Italo Dias !!
+## 👋Olá! Eu sou o Italo Dias !!
 
 ## **Sobre mim:**
 
